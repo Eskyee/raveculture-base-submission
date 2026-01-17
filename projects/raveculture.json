@@ -11,8 +11,8 @@
     "instagram": "https://instagram.com/raveculture"
   },
   "token": {
-    "name": "RaveCulture Coin",
-    "symbol": "RAVE",
+    "name": "raveculture Coin",
+    "symbol": "raveculture",
     "network": "base",
     "contractAddress": "0xdf3C79A5759EeEDB844E7481309A75037B8E86f5"
   }
